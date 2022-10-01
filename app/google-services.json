@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821382463515",
+    "project_id": "softdemo-4acd6",
+    "storage_bucket": "softdemo-4acd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821382463515:android:f6686bff036685195438be",
+        "android_client_info": {
+          "package_name": "com.Infotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821382463515-0gu3hmul0qlp5hcpdmsr6ddvtqu83n72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAVTAVIuLHzLIfJRfsjU8r_wFuLu8UVg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821382463515-0gu3hmul0qlp5hcpdmsr6ddvtqu83n72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
