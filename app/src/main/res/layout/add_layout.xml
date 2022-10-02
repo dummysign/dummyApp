@@ -25,6 +25,14 @@
         android:textSize="15sp"
         android:text="Enter Your Name"/>
 
+    <ImageView
+        android:id="@+id/upload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvhint"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/ic_launcher" />
+
 
     <LinearLayout
         android:id="@+id/llEdit"
@@ -33,7 +41,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
-        android:layout_below="@+id/tvhint"
+        android:layout_below="@+id/upload"
         android:background="@drawable/boder"
         android:elevation="5dp"
         android:paddingStart="10dp"

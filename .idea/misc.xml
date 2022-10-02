@@ -3,20 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Infotech/app/src/main/res/drawable/bg_recommended.xml" value="0.1405" />
-        <entry key="..\:/Infotech/app/src/main/res/drawable/boder.xml" value="0.1405" />
-        <entry key="..\:/Infotech/app/src/main/res/drawable/btn_squire.xml" value="0.1405" />
-        <entry key="..\:/Infotech/app/src/main/res/drawable/btnback.xml" value="0.1405" />
-        <entry key="..\:/Infotech/app/src/main/res/drawable/edit_back.xml" value="0.1405" />
-        <entry key="..\:/Infotech/app/src/main/res/drawable/ic_baseline_warning_24.xml" value="0.1405" />
-        <entry key="..\:/Infotech/app/src/main/res/drawable/splash_back.xml" value="0.1405" />
-        <entry key="..\:/Infotech/app/src/main/res/layout/activity_login.xml" value="0.20833333333333334" />
-        <entry key="..\:/Infotech/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
-        <entry key="..\:/Infotech/app/src/main/res/layout/activity_regisetr.xml" value="0.20833333333333334" />
-        <entry key="..\:/Infotech/app/src/main/res/layout/activity_splash.xml" value="0.209375" />
-        <entry key="..\:/Infotech/app/src/main/res/layout/add_layout.xml" value="0.209375" />
-        <entry key="..\:/Infotech/app/src/main/res/layout/item_list.xml" value="0.20833333333333334" />
-        <entry key="..\:/Infotech/app/src/main/res/layout/permission_error_dialog.xml" value="0.20833333333333334" />
+        <entry key="..\:/Android/ASSIGENMENT/Infotech (3)/Infotech/app/src/main/res/layout/add_layout.xml" value="0.10507246376811594" />
+        <entry key="..\:/Android/ASSIGENMENT/Infotech (3)/Infotech/app/src/main/res/layout/detials_layout.xml" value="0.20364583333333333" />
       </map>
     </option>
   </component>

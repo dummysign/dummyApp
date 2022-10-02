@@ -5,12 +5,14 @@ public class NotesModel {
     String description;
     String date;
     String status;
+    String image;
 
-    public NotesModel(String subject, String description, String date, String status) {
+    public NotesModel(String subject, String description, String date, String status, String image) {
         this.subject = subject;
         this.description = description;
         this.date = date;
         this.status = status;
+        this.image = image;
     }
 
     public String getSubject() {
@@ -43,5 +45,13 @@ public class NotesModel {
 
     public void setStatus(String status) {
         this.status = status;
+    }
+
+    public String getImage() {
+        return image;
+    }
+
+    public void setImage(String image) {
+        this.image = image;
     }
 }
